@@ -34,7 +34,6 @@ SmartPrompter/
 Streamlit
 OpenAI GPT
 Python 3.9+
-Framer Motion (via JS for animations) (for future enhancements)
 
 📌 Use Cases
 Prompt engineers
